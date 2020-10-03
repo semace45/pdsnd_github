@@ -23,13 +23,13 @@ def check_input(input_str,input_type):
                 break
             else:
                 if input_type == 1:
-                    print("Sorry, your input should be: Chicago, New York City or Washington")
+                    print("Sorry, your input should be: Chicago, New York City or Washington.")
                 if input_type == 2:
-                    print("Sorry, your input should be: January, February, March, April, May, June or all")
+                    print("Sorry, your input should be: January, February, March, April, May, June or all.")
                 if input_type == 3:
-                    print("Sorry, your input should be: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday or all")
+                    print("Sorry, your input should be: Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday or all.")
         except ValueError:
-            print("Sorry, your input is wrong")
+            print("Sorry, your input is wrong!")
     return input_read
 
 def get_filters():
