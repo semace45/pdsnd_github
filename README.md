@@ -1,15 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+04/10/2020
 
 ### Project Title
-Replace the Project Title
+US Bikeshare Data Analysis Projec
 
 ### Description
-Describe what your project is about and what it does
+In this project, _Python_ is used to explore data related to bike share systems for three major cities in the United States — _Chicago, New York City,_ and _Washington_. 
 
 ### Files used
-Include the files used
+bikeshare_2.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+* Richard Kalehoff (Udacity mentor)
+    - [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
+    - [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
+	
+* Juno Lee (Udacity Mentor)
+    - [https://github.com/junolee](https://github.com/junolee)
+    - [https://www.linkedin.com/in/junoleelj](https://www.linkedin.com/in/junoleelj)
